@@ -1,0 +1,65 @@
+.bigCircle {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    border:1px solid black;
+    background: #fff;
+    margin-top: 80px;
+    margin-left: 80px;
+  }
+
+  .miniCircles {
+    position: absolute;
+    width: 87px;
+    height: 67px;
+    border-radius: 50%;
+    border:1px solid black;
+    background: #fff;
+  }
+
+  .circle1{
+    top: 50px;
+    left: 295px;
+  }
+
+  .circle2{
+    top: 194px;
+    left: 517px;
+  }
+
+  .circle3{
+    top: 371px;
+    left: 517px;
+  }
+
+  .circle4{
+    top: 543px;
+    left: 295px;
+  }
+
+  .circle5{
+    top: 371px;
+    left: 65px;
+  }
+
+  .circle6{
+    top: 194px;
+    left: 65px;
+  }
+
+  .miniCircles > img{
+      margin-left: 28%;
+      margin-top: 13%;
+    width: 40px;
+    height: 40px;
+  }
+
+  .paragraph{
+    position: absolute;
+    top:273px;
+    left:290px;
+    display:none;
+    
+  }
+
+  
